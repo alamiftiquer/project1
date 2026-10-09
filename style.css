@@ -16,6 +16,7 @@
     font-weight: 700;
     position: absolute;
     top: 16px;
+    left: 10px;
     line-height: 60px;
     cursor: pointer;
     transition: all 0.3s linear;
