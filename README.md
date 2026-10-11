@@ -42,3 +42,8 @@ This project is a CSS-based sidebar menu designed for a photography website. It 
 
 
 4. Open the HTML file in any modern web browser to view and interact with the menu.
+
+
+
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62af5669-1637-4a0c-9c54-ce5c8f836ea3" />
+
